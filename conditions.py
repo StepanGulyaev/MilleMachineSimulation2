@@ -32,6 +32,8 @@ def S0(string, i):
     B2.clear()
     B3.clear()
 
+    i+=1
+
     if end_of_string(string,i):
         return
 
